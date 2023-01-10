@@ -1,0 +1,98 @@
+{
+  "name": "articles",
+  "levels": [
+    {
+      "levelName": "elementary",
+      "texts": [
+        {
+          "textName": "testTextOne",
+          "paragraphs":
+          [
+            {
+            "id": "0",
+            "text": "text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two + test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 "
+            },
+            {
+            "id": "1",
+            "text": "text one test text one test text one test text one test text one test text one test text one test text one testtext one test"
+            }
+          ]
+        },
+        {
+          "textName": "testTextTwo",
+          "paragraphs":
+          [
+            {
+            "id": "0",
+            "text": "text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two + test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 "
+            },
+            {
+            "id": "1",
+            "text": "text one test text one test text one test text one test text one test text one test text one test text one testtext one test"
+            }
+          ]
+        },
+        {
+          "textName": "testText3",
+          "paragraphs":
+          [
+            {
+            "id": "0",
+            "text": "text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two + test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 "
+            },
+            {
+            "id": "1",
+            "text": "text one test text one test text one test text one test text one test text one test text one test text one testtext one test"
+            }
+          ]
+        },
+        {
+          "textName": "testText4",
+          "paragraphs":
+          [
+            {
+            "id": "0",
+            "text": "text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two + test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 "
+            },
+            {
+            "id": "1",
+            "text": "text one test text one test text one test text one test text one test text one test text one test text one testtext one test"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelName": "pre-intermediate",
+      "texts": []
+    },
+    {
+      "levelName": "intermediate",
+      "texts": []
+    },
+    {
+      "levelName": "upper-intermediate",
+      "texts":
+      [
+        {
+          "textName": "testText123",
+          "paragraphs":
+          [
+            {
+            "id": "0",
+            "text": "text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two + test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 text two test 2222222 22 22222 "
+            },
+            {
+            "id": "1",
+            "text": "text one test text one test text one test text one test text one test text one test text one test text one testtext one test"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelName": "advanced",
+      "texts": []
+    }
+  ]
+}
